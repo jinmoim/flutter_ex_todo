@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
         builder: (context, state) {
           return MaterialApp(
             theme: theme,
-            title: 'example_todo',
+            title: 'example_todo44444444444444444444',
             navigatorKey: NavigatorService.navigatorKey,
             debugShowCheckedModeBanner: false,
             localizationsDelegates: [
